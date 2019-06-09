@@ -161,6 +161,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+Object(_angular_core__WEBPACK_IMPORTED_MODULE_2__["enableProdMode"])();
 var AppModule = /** @class */ (function () {
     function AppModule() {
     }
